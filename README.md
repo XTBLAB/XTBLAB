@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![XTBLAB's GitHub stats](https://readme-stats-sand-five.vercel.app/api?username=XTBLAB)](https://github.com/WTNLXTBL/Readme-Stats)
+
 <!--
 **XTBLAB/XTBLAB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
