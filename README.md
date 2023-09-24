@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![XTBLAB's GitHub stats](https://readme-stats-sand-five.vercel.app/api?username=XTBLAB)](https://github.com/WTNLXTBL/Readme-Stats)
 
 <!--
